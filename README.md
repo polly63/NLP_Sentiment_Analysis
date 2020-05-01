@@ -1,2 +1,4 @@
 # NLP_Sentiment_Analysis
-Company ranking
+ESG (environmental, social, andgovernance) Company Ranking Score
+Enhanced the company ranking mechanism and identified the reputation of a company by conducting Natural Language Processing (NLP) and sentiment analysis on ~100K rows of Twitter data and public articles; constructed a data pipeline to automate data collection and sentiment analysis procedures with Twitter API                                                                                                       
+These ESG algorithms are in pursuit of creating an “ESG score” for a corporations. The largestcompanies that evaluate corporations on ESG are predominately performed in a manual ad-hocmanner such as checklists. Natural language processing and other machine learning algorithms areparticularly well-poised to overcome the current methodologies’ weaknesses. 
